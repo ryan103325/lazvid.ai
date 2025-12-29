@@ -188,3 +188,5 @@ Built with a modern stack using Vite, React, and Tailwind CSS.
 ## 📄 License
 
 MIT License
+#   l a z v i d . a i  
+ 

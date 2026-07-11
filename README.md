@@ -13,10 +13,6 @@ Your AI-powered assistant for video translation, summarization, and reading.
 
 [🌐 繁體中文](#-繁體中文) | [🇺🇸 English](#-english)
 
----
-
-![App Screenshot](https://via.placeholder.com/800x450?text=LazVid.ai+Preview)
-
 </div>
 
 <a id="-繁體中文"></a>
